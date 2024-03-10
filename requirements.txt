@@ -1,0 +1,7 @@
+wheel
+bokeh
+beautifulsoup4
+lxml
+cenpy
+
+#15 minutes to set up dependencies
